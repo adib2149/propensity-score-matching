@@ -1,6 +1,8 @@
 # ps-matching
 python class to perform propensity score matching
 
+Read through the attached pdf file as tutorial
+
 # How to Use the ps-matching code:
 ## Set global variables:
 ```
